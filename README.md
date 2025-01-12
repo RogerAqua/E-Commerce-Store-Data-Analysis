@@ -7,15 +7,15 @@ This project aims to analyze the annual sales data of an E-Commerce Store for th
 The objective of this analysis is to provide actionable insights that will help the E-Commerce Store optimize its sales strategies for 2023. By identifying trends in sales, customer demographics, geographical performance, and top-selling products, the store will be better positioned to refine its marketing efforts and improve overall sales performance.
 
 # Key Analysis Areas
-To gain a comprehensive understanding of the sales performance, several key parameters were analyzed. These areas provide insights into various aspects of the business, from customer demographics to product categories, and are essential for driving data-driven decisions :
-• Sales and Orders Comparison
-• Monthly Performance
-• Demographic Analysis
-• Order Status Overview
-• Geographical Insights
-• Age and Gender Relationship
-• Popular Purchasing Channels
-• Top-Selling Categories
+To gain a comprehensive understanding of the sales performance, several key parameters were analyzed. These areas provide insights into various aspects of the business, from customer demographics to product categories, and are essential for driving data-driven decisions :</br>
+• Sales and Orders Comparison</br>
+• Monthly Performance</br>
+• Demographic Analysis</br>
+• Order Status Overview</br>
+• Geographical Insights</br>
+• Age and Gender Relationship</br>
+• Popular Purchasing Channels</br>
+• Top-Selling Categories</br>
 
 # Conclusion
 The analysis of 2022 sales data has provided actionable insights into sales trends, customer demographics, and top product categories. These findings will help the E-Commerce Store optimize marketing strategies, improve customer targeting, and drive growth in 2023.
