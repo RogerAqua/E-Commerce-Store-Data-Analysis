@@ -1,4 +1,4 @@
-# MS-Excel-Based-E-Commerce-Store-Data-Analysis
+# E-Commerce Store Data Analysis Using MS Excel
 # Introduction
 This project focuses on analyzing the annual sales data of E-Commerce Store for the year 2022. The dataset consists of 31,048 rows and 19 columns, containing vital information about sales transactions. The primary objective of this analysis is to derive valuable insights that can assist the store in enhancing its sales strategies for 2023.
 
